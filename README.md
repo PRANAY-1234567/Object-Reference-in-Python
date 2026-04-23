@@ -127,3 +127,6 @@ t2 = t1   ✅ creates a reference
 ## 📄 License
 
 This project is open-source and free to use.
+
+<img width="764" height="681" alt="image" src="https://github.com/user-attachments/assets/bc2b3b2d-f1ea-4638-a0a8-0419a9642aa6" />
+
